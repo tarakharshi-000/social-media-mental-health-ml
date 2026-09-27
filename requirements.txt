@@ -1,0 +1,8 @@
+pandas==2.3.3
+numpy
+scikit-learn
+xgboost==3.2.0
+matplotlib
+seaborn
+openpyxl
+joblib
